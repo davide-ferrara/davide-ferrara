@@ -4,6 +4,8 @@ Backend engineer focused on Go, C, Python and Linux.
 
 I like building LLM agents and automation systems, especially when they stay close to the system boundary: network servers, developer tools and software that is simple enough to inspect, adapt and extend.
 
+> In the age of AI, I believe ideas and communication make the difference. Code has never been the real limit of software engineering. Imagination and collaboration have, and AI is pushing both further.
+
 ## Projects
 
 - [kilo-agent](https://github.com/davide-ferrara/kilo-agent): self-contained, malleable LLM agent runtime in Go.
